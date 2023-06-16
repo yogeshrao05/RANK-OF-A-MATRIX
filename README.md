@@ -23,8 +23,9 @@ print output values.
 a=np .array([[3,2,5],[1,1,2],[3,3,6]])
 b=np .linalg.matrix_rank(a)
 print(b)
-## Output:
 ```
+## Output:
+
 ![image](https://user-images.githubusercontent.com/122008288/227436413-c911cace-bc12-4282-af14-6c59ef3dfb85.png)
 
 ## Result:
